@@ -51,8 +51,7 @@ input:checked + .slider::before{
 }
 .akash{
     margin-top: 100px;
-    top: 100%;
     font-size: 200px;
     pointer-events: none;
-    display: block;
+    display: none;
 }
